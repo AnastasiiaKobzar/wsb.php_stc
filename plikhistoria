@@ -1,0 +1,6 @@
+    1  ls -la
+    2  pwd
+    3  git clone https://github.com/KobzarNastiuszka/wsb.php_stc.git
+    4  ls
+    5  cd wsb.php_stc
+    6  history > plikhistoria
