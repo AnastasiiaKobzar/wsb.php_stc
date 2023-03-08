@@ -1,1 +1,1 @@
-# wsb.php_stc
+# wsb_php_stc
